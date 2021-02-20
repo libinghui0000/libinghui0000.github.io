@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior undergraduate in Yuanpei College, Peking University, majoring in Data Science and Big Data Technology, while learning many core courses in other professions. I am fortunate to research in Professor [Liwei Wang](http://www.liweiwang-pku.com/)'s group. My research interest lies in many fields, including theory of machine learning, adversarial robustness and out-of-distribution learning.
-
-
-Educations
-======
-
+I am a junior undergraduate in [Yuanpei College](https://yuanpei.pku.edu.cn), [Peking University](https://www.pku.edu.cn), majoring in Data Science and Big Data Technology, while learning many core courses in other professions. I am fortunate to research in Professor [Liwei Wang](http://www.liweiwang-pku.com/)'s group. My research interest lies in many fields, including theory of machine learning, adversarial robustness and out-of-distribution learning.
 
 Publications
 ======
+- **(Preprint) Risk Variance Penalization**
+
+- **(Preprint) [Out-of-Distribution Generalization Analysis via Influence Function](https://arxiv.org/abs/2101.08521)**
+  <br/>
+  *Haotian Ye\*, Chuanlong Xie, Yue Liu, Zhenguo Li*
+  
+
 
 Main Experiences
 ======
