@@ -12,8 +12,6 @@ I am a junior undergraduate in [Yuanpei College](https://yuanpei.pku.edu.cn), [P
 
 Publications
 ======
-- **(Preprint) Risk Variance Penalization**
-
 - **(Preprint) [Out-of-Distribution Generalization Analysis via Influence Function](https://arxiv.org/abs/2101.08521)**
   <br/>
   *Haotian Ye\*, Chuanlong Xie, Yue Liu, Zhenguo Li*
