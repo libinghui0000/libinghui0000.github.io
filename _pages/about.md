@@ -12,6 +12,8 @@ I am a junior undergraduate in [Yuanpei College](https://yuanpei.pku.edu.cn), [P
 
 Publications
 ======
+- **(Anonymous Submission)
+  *Due to the anonymity policy of ICML, we cannot provide more information.*
 - **(Preprint) [Out-of-Distribution Generalization Analysis via Influence Function](https://arxiv.org/abs/2101.08521)**
   <br/>
   *Haotian Ye\*, Chuanlong Xie, Yue Liu, Zhenguo Li*
