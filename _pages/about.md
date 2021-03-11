@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 I am a junior undergraduate in [Yuanpei College](https://yuanpei.pku.edu.cn), [Peking University](https://www.pku.edu.cn), majoring in Data Science and Big Data Technology, while learning many core courses in other professions. I am fortunate to research in Professor [Liwei Wang](http://www.liweiwang-pku.com/)'s group. My research interest lies in many fields, including theory of machine learning, adversarial robustness and out-of-distribution learning.
+<br/>
+If you are interested, please feel free to contact me!
 
 Publications
 ======
