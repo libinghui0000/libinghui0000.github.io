@@ -16,7 +16,7 @@ Publications
 ======
 - **(Anonymous Submission)**
   <br/>
-  *Due to the anonymity policy of ICML, we cannot provide more information.*
+  *Due to the anonymity policy of Neurips, we cannot provide more information.*
 - **(Preprint) [Out-of-Distribution Generalization Analysis via Influence Function](https://arxiv.org/abs/2101.08521)**
   <br/>
   *Haotian Ye\*, Chuanlong Xie, Yue Liu, Zhenguo Li*
