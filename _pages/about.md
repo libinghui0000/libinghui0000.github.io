@@ -29,13 +29,7 @@ Research Experiences
   undergraduate research (advisor: Liwei Wang)
   <br/>
   Sept. 2019 - June 2022 (expected)
-<!--
-- Huawei Noah's Ark Lab
-%  <br/>
-%  intern research (advisor: Zhenguo Li)
-%  <br/>
-%  July 2019 - Oct. 2019
--->
+
 
 Selected Awards
 ======
