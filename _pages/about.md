@@ -16,7 +16,7 @@ Publications
 ======
 - **(Anonymous Submission)**
   <br/>
-  *Due to the anonymity policy of Neurips, we cannot provide more information.*
+  *Due to the anonymity policy of Neurips 2021, we cannot provide more information.*
 - **(Preprint) [Out-of-Distribution Generalization Analysis via Influence Function](https://arxiv.org/abs/2101.08521)**
   <br/>
   *Haotian Ye\*, Chuanlong Xie, Yue Liu, Zhenguo Li*
@@ -29,12 +29,13 @@ Research Experiences
   undergraduate research (advisor: Liwei Wang)
   <br/>
   Sept. 2019 - June 2022 (expected)
+<!--
 - Huawei Noah's Ark Lab
-  <br/>
-  intern research (advisor: Zhenguo Li)
-  <br/>
-  July 2019 - Oct. 2019
-
+%  <br/>
+%  intern research (advisor: Zhenguo Li)
+%  <br/>
+%  July 2019 - Oct. 2019
+-->
 
 Selected Awards
 ======
