@@ -21,7 +21,7 @@ Publications
   <br/>
   *Haotian Ye\*, Chuanlong Xie, Yue Liu, Zhenguo Li*
 
-Research Experiences
+Intern Experiences
 ======
 - Key Laboratory of Machine Perception and Intelligence, Ministry of Education, Peking University
   <br/>
