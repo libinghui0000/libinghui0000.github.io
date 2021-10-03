@@ -42,7 +42,7 @@ Research & Intern Experiences
 
 Selected Awards
 ======
-- May 4^th^ scholarship (1%, Rank 1), 2021
+- May 4 scholarship (1%, Rank 1), 2021
 - National scholarship (1%, Rank 2), 2019
 - Leo Koguan scholarship (1%), 2020
 - Merit student pacesetter (2%), 2019
