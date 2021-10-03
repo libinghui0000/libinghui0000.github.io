@@ -8,26 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior undergraduate in [Yuanpei College](https://yuanpei.pku.edu.cn), [Peking University](https://www.pku.edu.cn), majoring in Data Science and Big Data Technology, while learning many core courses in other professions. I am fortunate to research in Professor [Liwei Wang](http://www.liweiwang-pku.com/)'s group. My research interest lies in many fields, including theory of machine learning, adversarial robustness and out-of-distribution learning.
+I am a senior undergraduate in [Yuanpei College](https://yuanpei.pku.edu.cn), [Peking University](https://www.pku.edu.cn), majoring in Data Science and Big Data Technology, while learning many core courses in other professions. I am fortunate to research in Professor [Liwei Wang](http://www.liweiwang-pku.com/)'s group. My research interest lies in many fields, including theory of machine learning, language model and out-of-distribution learning.
 <br/>
 If you are interested, please feel free to contact me!
 
 Publications
 ======
-- **(Anonymous Submission)**
+- **(Neruips 2021) [Towards a Theoretical Framework of Out-of-Distribution Generalization](https://arxiv.org/abs/2106.04496)**
   <br/>
-  *Due to the anonymity policy of Neurips 2021, we cannot provide more information.*
+  * Haotian Ye\*, Chuanlong Xie, Tianle Cai, Ruichen Li, Zhenguo Li, Liwei Wang*
 - **(Preprint) [Out-of-Distribution Generalization Analysis via Influence Function](https://arxiv.org/abs/2101.08521)**
   <br/>
-  *Haotian Ye\*, Chuanlong Xie, Yue Liu, Zhenguo Li*
+  * Haotian Ye\* , Chuanlong Xie, Yue Liu, Zhenguo Li*
 
-Intern Experiences
+Research & Intern Experiences
 ======
-- Key Laboratory of Machine Perception and Intelligence, Ministry of Education, Peking University
+- University of California, Berkeley
   <br/>
-  Undergraduate research (advisor: Liwei Wang)
+  Visiting research (advisor: [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/))
   <br/>
-  Sept. 2019 - June 2022 (expected)
+  Aug. 2021 - Dec. 2021 (expected)
+- DP Technology
+  <br/>
+  Intern (advisor: [Linfeng Zhang](https://scholar.google.com/citations?user=jk7qwmcAAAAJ&hl=zh-CN))
+  <br/>
+  Feb. 2021 - May 2021
 - Huawei Noah's Ark Lab
   <br/>
   Intern research (advisor: Zhenguo Li)
@@ -37,7 +42,8 @@ Intern Experiences
 
 Selected Awards
 ======
-- National scholarship (1%, Top 2), 2019
+- May 4^th^ scholarship (1%, Rank 1), 2021
+- National scholarship (1%, Rank 2), 2019
 - Leo Koguan scholarship (1%), 2020
 - Merit student pacesetter (2%), 2019
 - Chinese Mathematical Olympiad (First Prize, Rank 7 in China), 2017
