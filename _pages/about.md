@@ -16,10 +16,10 @@ Publications
 ======
 - **(Neruips 2021) [Towards a Theoretical Framework of Out-of-Distribution Generalization](https://arxiv.org/abs/2106.04496)**
   <br/>
-  * Haotian Ye\*, Chuanlong Xie, Tianle Cai, Ruichen Li, Zhenguo Li, Liwei Wang*
+  _**Haotian Ye\***, Chuanlong Xie, Tianle Cai, Ruichen Li, Zhenguo Li, Liwei Wang_
 - **(Preprint) [Out-of-Distribution Generalization Analysis via Influence Function](https://arxiv.org/abs/2101.08521)**
   <br/>
-  * Haotian Ye\* , Chuanlong Xie, Yue Liu, Zhenguo Li*
+  _**Haotian Ye\*** , Chuanlong Xie, Yue Liu, Zhenguo Li_
 
 Research & Intern Experiences
 ======
