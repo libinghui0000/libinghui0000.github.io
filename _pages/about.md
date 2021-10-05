@@ -25,7 +25,9 @@ Research & Intern Experiences
 ======
 - University of California, Berkeley
   <br/>
-  Visiting research (advisor: [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/))
+  Invited visiting research (advisor: [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/))
+  <br/>
+  Sponsored by Department of Statistics (Berkeley) and Yuanpei College (Peking University) 
   <br/>
   Aug. 2021 - Dec. 2021 (expected)
 - DP Technology
@@ -35,7 +37,7 @@ Research & Intern Experiences
   Feb. 2021 - May 2021
 - Huawei Noah's Ark Lab
   <br/>
-  Intern research (advisor: Zhenguo Li)
+  Intern research (advisor: [Zhenguo Li](https://scholar.google.com/citations?user=XboZC1AAAAAJ&hl=en))
   <br/>
   July 2019 - Oct. 2019
 
