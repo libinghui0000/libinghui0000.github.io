@@ -14,7 +14,7 @@ If you are interested, please feel free to contact me!
 
 Publications
 ======
-- **(Neruips 2021) [Towards a Theoretical Framework of Out-of-Distribution Generalization](https://arxiv.org/abs/2106.04496)**
+- **(NeurIPS 2021) [Towards a Theoretical Framework of Out-of-Distribution Generalization](https://arxiv.org/abs/2106.04496)**
   <br/>
   _**Haotian Ye\***, Chuanlong Xie, Tianle Cai, Ruichen Li, Zhenguo Li, Liwei Wang_
 - **(Preprint) [Out-of-Distribution Generalization Analysis via Influence Function](https://arxiv.org/abs/2101.08521)**
