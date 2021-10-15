@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate in [Yuanpei College](https://yuanpei.pku.edu.cn), [Peking University](https://www.pku.edu.cn), majoring in Data Science and Big Data Technology, while learning many core courses in other professions. I am fortunate to research in Professor [Liwei Wang](http://www.liweiwang-pku.com/)'s group. My research interest lies in many fields, including theory of machine learning, language model and out-of-distribution learning.
+I am a senior （4<sup>th </sup>/5) undergraduate in [Peking University](https://www.pku.edu.cn), majoring in Data Science and Big Data Technology (Math + Computer Science), while learning many core courses in other professions. I am fortunate to research in Professor [Liwei Wang](http://www.liweiwang-pku.com/)'s group. My research interest lies in many fields, including foundation model, theory in machine learning and out-of-distribution learning.
 <br/>
 If you are interested, please feel free to contact me!
 
