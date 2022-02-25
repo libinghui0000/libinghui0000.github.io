@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Binghui Li"
 title_separator          : "-"
 name                     : &name "Binghui Li"
-description              : &description "personal description"
+description              : &description "A junior student at PKU"
 url                      : https://lbhhome.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lbhhome.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "libinghui0000"
   google_plus      :
   keybase          :
   instagram        :
