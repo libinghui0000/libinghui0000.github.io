@@ -11,7 +11,7 @@ title                    : "Binghui Li"
 title_separator          : "-"
 name                     : &name "Binghui Li"
 description              : &description "A junior student at PKU"
-url                      : https://libinghui0000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : #https://libinghui0000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "libinghui0000.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Binghui Li"
-  avatar           : "李柄辉.jpg"
+  avatar           : #"李柄辉.jpg"
   bio              : "A junior student at PKU"
   location         : "Beijing, China"
   employer         :
