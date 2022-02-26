@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 My name is Binghui Li. I am a junior undergraduate at [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), Peking University, where I am fortunate to be advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). My research area is machine learning, with special interests in understanding deep learning and algorithms inspired by theoretical insights. 
+If you are interested, please feel free to contact me!
 
 Publications & Preprints
 =====
