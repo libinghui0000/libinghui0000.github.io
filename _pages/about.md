@@ -23,7 +23,7 @@ Publications & Preprints
 
 Teaching
 =====
-2021 Fall: CS 33400 Discrete Mathematics and Structures, PKU (TA)
+- 2021 Fall: CS 33400 Discrete Mathematics and Structures, PKU (TA)
 
 Selected Awards
 ======
