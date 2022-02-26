@@ -16,7 +16,7 @@ Publications & Preprints
   <br/>
   _Ruichen Li, **Binghui Li**, Qi Qian, Liwei Wang_
 
-- **Boosting Certified ℓ∞ Robustness with EMA Method and Ensemble Model**(Preprint)[[PDF](https://arxiv.org/abs/2107.00230)]
+- **Boosting Certified $l_{\inf}$ Robustness with EMA Method and Ensemble Model**(Preprint)[[PDF](https://arxiv.org/abs/2107.00230)]
   <br/>
   _**Binghui Li**\*, Shiji Xin\*, Qizhe Zhang\*_
 
