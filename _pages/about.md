@@ -26,7 +26,7 @@ Teaching
 
 Selected Awards
 ======
-- John Hopcroft Scholarship, 2021
+- [John Hopcroft Scholarship](https://cfcs.pku.edu.cn/english/research/turing_program/john_hopcroft_foundation/index.htm), 2021
 - Peking University Collegiate Programming Contest, Third Prize, 2021
 - Third Class Scholarship of PKU, 2020
 - Chinese Mathematical Olympiad, Bronze Medal, 2018
