@@ -13,7 +13,7 @@ If you are interested, please feel free to contact me!
 
 Education
 =====
-- B.S. in Intelligence Science and Technology (Honor Track), Peking University, 2019-2023 (Expected).
+- B.S. in Intelligence Science and Technology (Honor Track), EECS, Peking University, 2019-2023 (Expected).
 
 Publications & Preprints
 =====
