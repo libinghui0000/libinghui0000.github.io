@@ -13,11 +13,11 @@ If you are interested, please feel free to contact me!
 
 Publications & Preprints
 =====
-- **(Preprint)** [Reconstruction Task Finds Universal Winning Tickets](https://arxiv.org/abs/2202.11484)
+- **(Preprint) [Reconstruction Task Finds Universal Winning Tickets](https://arxiv.org/abs/2202.11484)**
   <br/>
   _Ruichen Li, **Binghui Li**, Qi Qian, Liwei Wang_
 
-- **(Preprint)** [Boosting Certified ℓ<sub>∞</sub> Robustness with EMA Method and Ensemble Model](https://arxiv.org/abs/2107.00230)
+- **(Preprint) [Boosting Certified ℓ<sub>∞</sub> Robustness with EMA Method and Ensemble Model](https://arxiv.org/abs/2107.00230)**
   <br/>
   _**Binghui Li**\*, Shiji Xin\*, Qizhe Zhang\*_
   
