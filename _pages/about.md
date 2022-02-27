@@ -32,7 +32,7 @@ Selected Courses
 - High-Dimensional Probability: 90/100
 - Study and Practice on Topics of Frontier Computing (II): 96/100
 - Introduction to the Theory of Computation: 92/100
-- Mathematical Analysis (III): 97/100
+- Mathematical Analysis (I): 97.5/100
 - Discrete Mathematics and Structures (I): 97/100
 - Probability Theory and Statistics (A): 96/100
 - Python Programming and Application: 96/100
