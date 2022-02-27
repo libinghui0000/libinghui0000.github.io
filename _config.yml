@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Binghui Li (李柄辉)"
+title                    : "Binghui Li's Homepage"
 title_separator          : "-"
 name                     : &name "Binghui Li"
 description              : &description "A junior student at PKU"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Binghui Li"
+  name             : "Binghui Li (李柄辉)"
   avatar           : "李柄辉.jpg"
   bio              : "A junior student at PKU"
   location         : "Beijing, China"
