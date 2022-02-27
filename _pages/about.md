@@ -25,6 +25,24 @@ Teaching
 =====
 - 2021 Fall: CS 33400 Discrete Mathematics and Structures, PKU (TA, with [Prof. Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm))
 
+Selected Courses
+======
+- Machine Learning: 93/100
+- Numerical Methods (B): 95/100
+- High-Dimensional Probability: 90/100
+- Study and Practice on Topics of Frontier Computing (II): 96/100
+- Introduction to the Theory of Computation: 92/100
+- Mathematical Analysis (III): 97/100
+- Discrete Mathematics and Structures (I): 97/100
+- Probability Theory and Statistics (A): 96/100
+- Python Programming and Application: 96/100
+- Advanced Algebra (II): 99/100
+- Practice of Programming in C&C++: 93/100
+- Algorithm Design and Analysis (Honor Track): 91.5/100
+- Information Theory: 90/100
+- Mathematical Foundations for the Information Age: 92/100
+- The Brain and Cognitive Science: 91/100
+
 Selected Awards
 ======
 - [John Hopcroft Scholarship](https://cfcs.pku.edu.cn/english/research/turing_program/john_hopcroft_foundation/index.htm), 2021
