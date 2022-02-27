@@ -15,6 +15,8 @@ Education
 =====
 - B.S.Intelligence Science & Technology (Honor Track), EECS, Peking University, 2019-2023 (expected).
 
+_Overrall GPA: 3.82/4.00, Average Score: 90.3/100
+
 Publications & Preprints
 =====
 - **(Preprint) [Reconstruction Task Finds Universal Winning Tickets](https://arxiv.org/abs/2202.11484)**
