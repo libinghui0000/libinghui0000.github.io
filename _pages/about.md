@@ -17,7 +17,7 @@ Education
 
 Publications & Preprints
 =====
-- **(Preprint) Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power**
+- **(Preprint) [Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power](https://libinghui0000.github.io/)**
   <br/>
   **Binghui Li**\*, Jikai Jin\*, Han Zhong, John E. Hopcroft, Liwei Wang
   
