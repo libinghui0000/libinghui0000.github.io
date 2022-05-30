@@ -19,7 +19,7 @@ Publications & Preprints
 =====
 - **(Preprint) [Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power](https://arxiv.org/abs/2205.13863)**
   <br/>
-  **Binghui Li**\*, Jikai Jin\*, Han Zhong, John E. Hopcroft, Liwei Wang
+  _**Binghui Li**\*, Jikai Jin\*, Han Zhong, John E. Hopcroft, Liwei Wang_
   
 - **(Preprint) [Reconstruction Task Finds Universal Winning Tickets](https://arxiv.org/abs/2202.11484)**
   <br/>
