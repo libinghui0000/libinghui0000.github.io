@@ -15,7 +15,7 @@ Education
 =====
 - B.S. in Intelligence Science and Technology (Honor Track), Peking University, 2019-2023 (Expected).
 
-Recent Talk Slides
+Talk Slides
 =====
 - At the Fourth BAAI Conference, **Robust Generalization Requires Exponentially Large Models [[Slides](Robust_Generalization_Slides.pdf)]**
 
