@@ -17,7 +17,7 @@ Education
 
 Talk Slides
 =====
-- At the Fourth BAAI Conference, **Robust Generalization Requires Exponentially Large Models [[Slides](Robust_Generalization_Slides.pdf)]**
+- At the Fourth BAAI Conference, **[Robust Generalization Requires Exponentially Large Models](Robust_Generalization_Slides.pdf)**
 
 Publications & Preprints
 =====
