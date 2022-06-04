@@ -15,6 +15,10 @@ Education
 =====
 - B.S. in Intelligence Science and Technology (Honor Track), Peking University, 2019-2023 (Expected).
 
+Recent Talk Slides
+=====
+- At the Fourth BAAI Conference, **Robust Generalization Requires Exponentially Large Models ([Slides](https://libinghui0000.github.io/))**
+
 Publications & Preprints
 =====
 - **(Preprint) [Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power](https://arxiv.org/abs/2205.13863)**
