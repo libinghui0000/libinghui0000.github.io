@@ -21,7 +21,7 @@ Talk Slides
 
 Publications & Preprints
 =====
-- **(NeurIPS2022) [Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power](https://arxiv.org/abs/2205.13863)**
+- **(NeurIPS 2022) [Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power](https://arxiv.org/abs/2205.13863)**
   <br/>
   _**Binghui Li**\*, Jikai Jin\*, Han Zhong, John E. Hopcroft, Liwei Wang_
   
