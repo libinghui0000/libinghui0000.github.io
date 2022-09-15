@@ -15,7 +15,7 @@ Education
 =====
 - B.S. in Intelligence Science and Technology (Honor Track), Peking University, 2019-2023 (Expected).
 
-_Overall GPA: 3.82 / 4.00, Average Score: 90.2 / 100, Rank: 2 / 81_
+_Overall GPA: 3.82 / 4.00,  Average Score: 90.2 / 100,  Rank: 2 / 81_
 
 Talk Slides
 =====
