@@ -41,6 +41,8 @@ Publications & Preprints
 
 Teaching
 =====
+- 2022 Fall: CS 33400 Discrete Mathematics and Structures, PKU (TA, with [Prof. Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm))
+
 - 2021 Fall: CS 33400 Discrete Mathematics and Structures, PKU (TA, with [Prof. Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm))
 
 Selected Courses
