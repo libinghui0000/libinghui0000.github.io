@@ -17,9 +17,11 @@ Education
 =====
 - B.S. in Intelligence Science and Technology (Honor Track), Peking University, 2019-2023 (Expected).
 
-Talk Slides
+_Overall GPA: 3.82 / 4.00, Average Score: 90.2 / 100, Rank: 2 / 81
+
+Invited Talk
 =====
-- At the Fourth BAAI Conference, **[Robust Generalization Requires Exponentially Large Models](Robust_Generalization_Slides.pdf)**
+- At the Fourth BAAI Conference, **Robust Generalization Requires Exponentially Large Models [Slides](Robust_Generalization_Slides.pdf) [Video](https://www.bilibili.com/video/BV17B4y1Y7dP/?spm_id_from=333.337.search-card.all.click)**
 
 Publications & Preprints
 =====
