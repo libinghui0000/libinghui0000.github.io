@@ -21,7 +21,7 @@ _Overall GPA: 3.82 / 4.00, Average Score: 90.2 / 100, Rank: 2 / 81_
 
 Invited Talk
 =====
-- At the Fourth BAAI Conference, **Robust Generalization Requires Exponentially Large Models [Slides](Robust_Generalization_Slides.pdf) [Video](https://www.bilibili.com/video/BV17B4y1Y7dP/?spm_id_from=333.337.search-card.all.click)**
+- At the Fourth BAAI Conference, **Robust Generalization Requires Exponentially Large Models [[Slides](Robust_Generalization_Slides.pdf)] [[Video](https://www.bilibili.com/video/BV17B4y1Y7dP/?spm_id_from=333.337.search-card.all.click)]**
 
 Publications & Preprints
 =====
