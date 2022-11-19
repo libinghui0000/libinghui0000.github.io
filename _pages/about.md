@@ -25,7 +25,7 @@ Invited Talk
 
 Publications & Preprints
 =====
-- **(Preprint) [Towards Understanding Robust Memorization in Adversarial Training](https://libinghui0000.github.io/)**
+- **(Preprint) [Towards Understanding Robust Memorization in Adversarial Training](Preprint_Robust_Memorization.pdf)**
   <br/>
   _**Binghui Li**, Yuanzhi Li_
 
