@@ -21,11 +21,13 @@ _Overall GPA: 3.82 / 4.00, Average Score: 90.2 / 100, Rank: 2 / 81_
 
 Invited Talk
 =====
+- At the Turing Student Research Forum, Peking University, **Robust Generalization Requires Exponentially Large Models [[Video]](https://www.bilibili.com/video/BV1mL411v7wx/?share_source=copy_web&vd_source=15ace44d20f0ecdd743e4865b78e402f)**
+
 - At the Fourth BAAI Conference, **Robust Generalization Requires Exponentially Large Models [[Slides](Robust_Generalization_Slides.pdf)] [[Video](https://www.bilibili.com/video/BV17B4y1Y7dP/?spm_id_from=333.337.search-card.all.click)]**
 
 Publications & Preprints
 =====
-- **(Preprint) [Towards Understanding Robust Memorization in Adversarial Training](Preprint_Robust_Memorization.pdf)**
+- **(Preprint) [Why Clean Generalization and Robust Overfitting Both Happen in Adversarial Training](https://libinghui0000.github.io/)**
   <br/>
   _**Binghui Li**, Yuanzhi Li_
 
@@ -67,6 +69,7 @@ Selected Courses
 
 Selected Awards
 ======
+- Top 10 Undergraduate Thesis of School of EECS, PKU, 2023
 - Third Class Scholarship of PKU, 2022
 - [John Hopcroft Scholarship](https://cfcs.pku.edu.cn/english/research/turing_program/john_hopcroft_foundation/index.htm), 2021
 - Peking University Collegiate Programming Contest, Third Prize, 2021
