@@ -27,7 +27,7 @@ Invited Talk
 
 Publications & Preprints
 =====
-- **(Preprint) [Why Clean Generalization and Robust Overfitting Both Happen in Adversarial Training](https://libinghui0000.github.io/)**
+- **(Preprint) [Why Clean Generalization and Robust Overfitting Both Happen in Adversarial Training](https://arxiv.org/abs/2306.01271)**
   <br/>
   _**Binghui Li**, Yuanzhi Li_
 
