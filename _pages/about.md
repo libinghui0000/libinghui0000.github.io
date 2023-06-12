@@ -69,7 +69,7 @@ Selected Courses
 
 Selected Awards
 ======
-- Top 10 Undergraduate Thesis of School of EECS, PKU, 2023
+- [Top 10 Undergraduate Thesis of School of EECS, PKU](https://eecs.pku.edu.cn/info/1046/5671.htm), 2023
 - Third Class Scholarship of PKU, 2022
 - [John Hopcroft Scholarship](https://cfcs.pku.edu.cn/english/research/turing_program/john_hopcroft_foundation/index.htm), 2021
 - Peking University Collegiate Programming Contest, Third Prize, 2021
