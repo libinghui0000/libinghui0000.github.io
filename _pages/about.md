@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Binghui Li. I am a first-year Ph.D. student in [The Center for Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/About/Introduction/index.htm), Peking University. Before joining CMLR, I received my Bachelor’s degree in Intelligence Science and Technology (Honor Track) from [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), Peking University, where I am extremely fortunate to be advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). I am also pleased to have worked closely with [Prof. Yuanzhi Li](https://www.andrew.cmu.edu/user/yuanzhil/) and [Prof. Ruoyu Sun](https://ruoyus.github.io/). My research area is machine learning, with special interests in understanding deep learning and algorithms inspired by theoretical insights. 
+My name is Binghui Li. I am an incoming Ph.D. student in [The Center for Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/About/Introduction/index.htm), Peking University. Before joining CMLR, I received my Bachelor’s degree in Intelligence Science and Technology (Honor Track) from [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), Peking University, where I am extremely fortunate to be advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). I am also pleased to have worked closely with [Prof. Yuanzhi Li](https://www.andrew.cmu.edu/user/yuanzhil/) and [Prof. Ruoyu Sun](https://ruoyus.github.io/). My research area is machine learning, with special interests in understanding deep learning and algorithms inspired by theoretical insights. 
 If you are interested, please feel free to contact me!
 
 Education
