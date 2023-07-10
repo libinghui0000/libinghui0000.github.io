@@ -13,7 +13,8 @@ If you are interested, please feel free to contact me!
 
 Education
 =====
-- B.S. in Intelligence Science and Technology (Honor Track), Peking University, 2019-2023 (Expected).
+- Ph.D. in Data Science (Computer Science and Technology), Peking University, 2023-2028 (Expected).
+- B.S. in Intelligence Science and Technology (Summa Cum Laude), Peking University, 2019-2023.
 
 _Overall GPA: 3.82 / 4.00, Average Score: 90.2 / 100, Rank: 2 / 81_
 
@@ -68,7 +69,7 @@ Selected Courses
 Selected Awards
 ======
 - Weiming Scholar of PKU, 2023 (top 1%, the highest honor for undergraduates in Peking University)
-- [Top 10 Undergraduate Thesis of School of EECS, PKU](https://eecs.pku.edu.cn/info/1046/5671.htm), 2023
+- [Top 10 Bachelor Thesis of School of EECS, PKU](https://eecs.pku.edu.cn/info/1046/5671.htm), 2023
 - Third Class Scholarship of PKU, 2022
 - [John Hopcroft Scholarship](https://cfcs.pku.edu.cn/english/research/turing_program/john_hopcroft_foundation/index.htm), 2021
 - Peking University Collegiate Programming Contest, Third Prize, 2021
