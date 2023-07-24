@@ -68,7 +68,7 @@ Selected Courses
 
 Selected Awards
 ======
-- President Scholarship of PKU, 2023
+- [President Scholarship of PKU](https://www.ds.pku.edu.cn/xwdt/935745.htm), 2023
 - Weiming Scholar of PKU, 2023 (top 1%, the highest honor for undergraduates in Peking University)
 - [Top 10 Bachelor Thesis of School of EECS, PKU](https://eecs.pku.edu.cn/info/1046/5671.htm), 2023
 - Third Class Scholarship of PKU, 2022
