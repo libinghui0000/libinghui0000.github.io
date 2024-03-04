@@ -28,7 +28,7 @@ Invited Talk
 
 Publications & Preprints
 =====
-- **(Preprint) [Towards Understanding Clean Generalization and Robust Overfitting in Adversarial Training](https://arxiv.org/abs/2306.01271)**
+- **(ICLR 2024 Workshop BGPT) [Towards Understanding Clean Generalization and Robust Overfitting in Adversarial Training](https://arxiv.org/abs/2306.01271)**
   <br/>
   _**Binghui Li**, Yuanzhi Li_
 
