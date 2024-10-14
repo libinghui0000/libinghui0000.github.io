@@ -54,6 +54,8 @@ Publications & Preprints
 
 Teaching
 =====
+- 2024 Fall: CS 33400 Discrete Mathematics and Structures, PKU (TA, with [Prof. Tianren Liu](https://liutianren.com/))
+  
 - 2023 Fall: CS 33400 Discrete Mathematics and Structures, PKU (TA, with [Prof. Tianren Liu](https://liutianren.com/))
   
 - 2022 Fall: CS 33400 Discrete Mathematics and Structures, PKU (TA, with [Prof. Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm))
@@ -93,8 +95,7 @@ Selected Awards
 
 Professional Service
 ======
-- Conference reviewer of ICLR 2024 workshop [BGPT](https://sites.google.com/view/bgpt-iclr24/home)
-- Conference reviewer of ICLR 2023
+- Conference reviewer of ICLR 2023/ NeurIPS 2024/ ICLR 2025/ AISTATS 2025
 - Committee member of Turing Class Research Committee since 2020
 
 
