@@ -28,6 +28,12 @@ Invited Talk
 
 Publications & Preprints
 =====
+- **(Preprint) [Feature Averaging: An Implicit Bias of Gradient Descent Leading to Non-Robustness in Neural Networks](https://libinghui0000.github.io/)**
+  _**Binghui Li**\*, Zhixuan Pan\*, Kaifeng Lyu, Jian Li_
+
+- **(NeurIPS 2024 Workshop M3L) [Adversarial Training Can Provably Improve Robustness: Theoretical Analysis of Feature Learning Process Under Structured Data](https://arxiv.org/abs/2410.08503)**
+  _**Binghui Li**, Yuanzhi Li_
+  
 - **(ICLR 2024 Workshop BGPT) [Towards Understanding Clean Generalization and Robust Overfitting in Adversarial Training](https://arxiv.org/abs/2306.01271)**
   <br/>
   _**Binghui Li**, Yuanzhi Li_
