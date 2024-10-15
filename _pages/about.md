@@ -28,7 +28,7 @@ Invited Talk
 
 Publications & Preprints
 =====
-- **(Preprint) [Feature Averaging: An Implicit Bias of Gradient Descent Leading to Non-Robustness in Neural Networks](https://libinghui0000.github.io/)**
+- **(Preprint) [Feature Averaging: An Implicit Bias of Gradient Descent Leading to Non-Robustness in Neural Networks](https://arxiv.org/abs/2410.10322)**
   <br/>
   _**Binghui Li**\*, Zhixuan Pan\*, Kaifeng Lyu, Jian Li_
 
