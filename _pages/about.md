@@ -28,11 +28,15 @@ Invited Talk
 
 Publications & Preprints
 =====
-- **(Preprint) [Feature Averaging: An Implicit Bias of Gradient Descent Leading to Non-Robustness in Neural Networks](https://arxiv.org/abs/2410.10322)**
+- **(Preprint) [MRAMG-Bench: A BeyondText Benchmark for Multimodal Retrieval-Augmented Multimodal Generation](https://arxiv.org/abs/2502.04176)**
+  <br/>
+  _Qinhan Yu\*, Zhiyou Xiao\*, **Binghui Li**\*, Zhengren Wang, Chong Chen, Wentao Zhang_
+
+- **(ICLR 2025) [Feature Averaging: An Implicit Bias of Gradient Descent Leading to Non-Robustness in Neural Networks](https://arxiv.org/abs/2410.10322)**
   <br/>
   _**Binghui Li**\*, Zhixuan Pan\*, Kaifeng Lyu, Jian Li_
 
-- **(NeurIPS 2024 Workshop M3L) [Adversarial Training Can Provably Improve Robustness: Theoretical Analysis of Feature Learning Process Under Structured Data](https://arxiv.org/abs/2410.08503)**
+- **(ICLR 2025, NeurIPS 2024 Workshop M3L) [Adversarial Training Can Provably Improve Robustness: Theoretical Analysis of Feature Learning Process Under Structured Data](https://arxiv.org/abs/2410.08503)**
   <br/>
   _**Binghui Li**, Yuanzhi Li_
   
@@ -54,6 +58,8 @@ Publications & Preprints
 
 Teaching
 =====
+- 2025 Spring: CS 34010 Randomness and Computation, PKU (TA, with [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/))
+
 - 2024 Fall: CS 33400 Discrete Mathematics and Structures, PKU (TA, with [Prof. Tianren Liu](https://liutianren.com/))
   
 - 2023 Fall: CS 33400 Discrete Mathematics and Structures, PKU (TA, with [Prof. Tianren Liu](https://liutianren.com/))
@@ -96,7 +102,7 @@ Selected Awards
 
 Professional Service
 ======
-- Conference reviewer of ICLR 2023/ NeurIPS 2024/ ICLR 2025/ AISTATS 2025
+- Conference reviewer of ICLR 2023/ NeurIPS 2024/ ICLR 2025/ AISTATS 2025/ ICML 2025
 - Committee member of Turing Class Research Committee since 2020
 
 
