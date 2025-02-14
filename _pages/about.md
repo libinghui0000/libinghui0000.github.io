@@ -14,17 +14,10 @@ If you are interested, please feel free to contact me (libinghui@pku.edu.cn or [
 Education
 =====
 - Ph.D. in Data Science (Computer Science and Technology), Peking University, 2023-2028 (Expected).
+  
 - B.S. in Intelligence Science and Technology (Summa Cum Laude), Peking University, 2019-2023.
-
-_Overall GPA: 3.82 / 4.00, Average Score: 90.2 / 100, Rank: 2 / 81_
-
-Invited Talk
-=====
-- At International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW 2023), **Robust Generalization Requires Exponentially Large Models [[Slides](IJTCS_Slides.pdf)]**
-
-- At the Turing Student Research Forum, Peking University, **Robust Generalization Requires Exponentially Large Models [[Video]](https://www.bilibili.com/video/BV1mL411v7wx/?share_source=copy_web&vd_source=15ace44d20f0ecdd743e4865b78e402f)**
-
-- At the Fourth BAAI Conference, **Robust Generalization Requires Exponentially Large Models [[Slides](Robust_Generalization_Slides.pdf)] [[Video](https://www.bilibili.com/video/BV17B4y1Y7dP/?spm_id_from=333.337.search-card.all.click)]**
+  <br/>
+  _Overall GPA: 3.82 / 4.00, Average Score: 90.2 / 100, Rank: 2 / 81_
 
 Publications & Preprints
 =====
@@ -55,6 +48,22 @@ Publications & Preprints
 - **(Preprint) [Boosting Certified ℓ<sub>∞</sub> Robustness with EMA Method and Ensemble Model](https://arxiv.org/abs/2107.00230)**
   <br/>
   _**Binghui Li**\*, Shiji Xin\*, Qizhe Zhang\*_
+
+Invited Talks
+=====
+- At the Turing Student CS Frontier Tutorial (2024), Peking University, **Theoretical Understanding of Adversarial Examples: 
+Expressive Power and Training Dynamics [[Slides]](https://libinghui0000.github.io/)**
+  
+- At the Tenth Beijing Computational Mathematics Postgraduate Forum (2024), Peking University, **Theoretical Understanding of Adversarial Examples: 
+Expressive Power and Training Dynamics [[Slides]](https://libinghui0000.github.io/)**
+
+- At the Turing Student Research Forum (2024), Peking University, **Understanding Adversarial Examples and Adversarial Training in Deep Learning: A Feature Learning View [[Slides]](https://libinghui0000.github.io/)**
+
+- At International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW 2023), **Robust Generalization Requires Exponentially Large Models [[Slides](IJTCS_Slides.pdf)]**
+
+- At the Turing Student Research Forum (2023), Peking University, **Robust Generalization Requires Exponentially Large Models [[Video]](https://www.bilibili.com/video/BV1mL411v7wx/?share_source=copy_web&vd_source=15ace44d20f0ecdd743e4865b78e402f)**
+
+- At the Fourth BAAI Conference (2022), **Robust Generalization Requires Exponentially Large Models [[Slides](Robust_Generalization_Slides.pdf)] [[Video](https://www.bilibili.com/video/BV17B4y1Y7dP/?spm_id_from=333.337.search-card.all.click)]**
 
 Teaching
 =====
