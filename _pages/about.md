@@ -51,19 +51,19 @@ Publications & Preprints
 
 Invited Talks
 =====
-- At the Turing Student CS Frontier Tutorial (2024), Peking University, **Theoretical Understanding of Adversarial Examples: 
-Expressive Power and Training Dynamics [[Slides]](https://libinghui0000.github.io/)**
+- 2024.11, At the Turing Student CS Frontier Tutorial, Peking University, **Theoretical Understanding of Adversarial Examples: 
+Expressive Power and Training Dynamics [[Slides](CS_Frontier_Tutorial_Slides.pdf)]**
   
-- At the Tenth Beijing Computational Mathematics Postgraduate Forum (2024), Peking University, **Theoretical Understanding of Adversarial Examples: 
-Expressive Power and Training Dynamics [[Slides]](https://libinghui0000.github.io/)**
+- 2024.11, At the Tenth Beijing Computational Mathematics Postgraduate Forum, Peking University, **Theoretical Understanding of Adversarial Examples: 
+Expressive Power and Training Dynamics [[Slides](Math_Slides.pdf)]**
 
-- At the Turing Student Research Forum (2024), Peking University, **Understanding Adversarial Examples and Adversarial Training in Deep Learning: A Feature Learning View [[Slides]](https://libinghui0000.github.io/)**
+- 2024.05, At the Turing Student Research Forum, Peking University, **Understanding Adversarial Examples and Adversarial Training in Deep Learning: A Feature Learning View [[Slides](Adv_Training_Sildes.pdf)]**
 
-- At International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW 2023), **Robust Generalization Requires Exponentially Large Models [[Slides](IJTCS_Slides.pdf)]**
+- 2023.08, At International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW 2023), **Robust Generalization Requires Exponentially Large Models [[Slides](IJTCS_Slides.pdf)]**
 
-- At the Turing Student Research Forum (2023), Peking University, **Robust Generalization Requires Exponentially Large Models [[Video]](https://www.bilibili.com/video/BV1mL411v7wx/?share_source=copy_web&vd_source=15ace44d20f0ecdd743e4865b78e402f)**
+- 2023.05, At the Turing Student Research Forum, Peking University, **Robust Generalization Requires Exponentially Large Models [[Video](https://www.bilibili.com/video/BV1mL411v7wx/?share_source=copy_web&vd_source=15ace44d20f0ecdd743e4865b78e402f)]**
 
-- At the Fourth BAAI Conference (2022), **Robust Generalization Requires Exponentially Large Models [[Slides](Robust_Generalization_Slides.pdf)] [[Video](https://www.bilibili.com/video/BV17B4y1Y7dP/?spm_id_from=333.337.search-card.all.click)]**
+- 2022.05, At the Fourth BAAI Conference, **Robust Generalization Requires Exponentially Large Models [[Slides](Robust_Generalization_Slides.pdf)] [[Video](https://www.bilibili.com/video/BV17B4y1Y7dP/?spm_id_from=333.337.search-card.all.click)]**
 
 Teaching
 =====
