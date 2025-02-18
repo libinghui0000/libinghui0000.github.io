@@ -111,7 +111,7 @@ Selected Awards
 
 Professional Service
 ======
-- Conference reviewer of ICLR 2023/ NeurIPS 2024/ ICLR 2025/ AISTATS 2025/ ICML 2025
+- Conference reviewer of ICLR 2023/ NeurIPS 2024/ ICLR 2025/ AISTATS 2025/ ICML 2025/ NeurIPS 2025
 - Committee member of Turing Class Research Committee since 2020
 
 
