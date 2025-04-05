@@ -21,7 +21,7 @@ Education
 
 Publications & Preprints
 =====
-- **(Preprint) [MRAMG-Bench: A BeyondText Benchmark for Multimodal Retrieval-Augmented Multimodal Generation](https://arxiv.org/abs/2502.04176)**
+- **(SIGIR 2025) [MRAMG-Bench: A Comprehensive Benchmark for Advancing Multimodal Retrieval-Augmented Multimodal Generation](https://arxiv.org/abs/2502.04176)**
   <br/>
   _Qinhan Yu\*, Zhiyou Xiao\*, **Binghui Li**\*, Zhengren Wang, Chong Chen, Wentao Zhang_
 
