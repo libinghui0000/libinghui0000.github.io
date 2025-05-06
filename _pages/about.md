@@ -21,6 +21,14 @@ Education
 
 Publications & Preprints
 =====
+- **(Preprint) [New Sphere Packings from the Antipode Construction](https://arxiv.org/abs/2505.02394)**
+  <br/>
+  _(Alphabetical order) Ruitao Chen\*, Jiachen Hu\*, **Binghui Li**\*, Liwei Wang\*, Tianyi Wu\*_
+
+- **(ICML 2025) [On the Clean Generalization and Robust Overfitting in Adversarial Training from Two Theoretical Views: Representation Complexity and Training Dynamics](https://arxiv.org/abs/2306.01271)**
+  <br/>
+  _**Binghui Li**, Yuanzhi Li_
+  
 - **(SIGIR 2025) [MRAMG-Bench: A Comprehensive Benchmark for Advancing Multimodal Retrieval-Augmented Multimodal Generation](https://arxiv.org/abs/2502.04176)**
   <br/>
   _Qinhan Yu\*, Zhiyou Xiao\*, **Binghui Li**\*, Zhengren Wang, Chong Chen, Wentao Zhang_
@@ -29,11 +37,7 @@ Publications & Preprints
   <br/>
   _**Binghui Li**\*, Zhixuan Pan\*, Kaifeng Lyu, Jian Li_
 
-- **(ICLR 2025, NeurIPS 2024 Workshop M3L) [Adversarial Training Can Provably Improve Robustness: Theoretical Analysis of Feature Learning Process Under Structured Data](https://arxiv.org/abs/2410.08503)**
-  <br/>
-  _**Binghui Li**, Yuanzhi Li_
-  
-- **(ICLR 2024 Workshop BGPT) [Towards Understanding Clean Generalization and Robust Overfitting in Adversarial Training](https://arxiv.org/abs/2306.01271)**
+- **(ICLR 2025) [Adversarial Training Can Provably Improve Robustness: Theoretical Analysis of Feature Learning Process Under Structured Data](https://arxiv.org/abs/2410.08503)**
   <br/>
   _**Binghui Li**, Yuanzhi Li_
 
