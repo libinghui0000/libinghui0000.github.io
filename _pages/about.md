@@ -55,6 +55,9 @@ Publications & Preprints
 
 Invited Talks
 =====
+- 2025.04, At the Applied Mathematics Youth Seminar, Peking University, **Theoretical Understanding of Adversarial Examples: 
+Expressive Power and Training Dynamics [[Slides](0402_Slides.pdf)]**
+
 - 2024.11, At the Turing Student CS Frontier Tutorial, Peking University, **Theoretical Understanding of Adversarial Examples: 
 Expressive Power and Training Dynamics [[Slides](CS_Frontier_Tutorial_Slides.pdf)]**
   
