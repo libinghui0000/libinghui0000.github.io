@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Binghui Li. I am a second-year Ph.D. student in [The Center for Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/About/Introduction/index.htm), Peking University, where I am extremely fortunate to be advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/) and [Prof. Lei Wu](https://leiwu0.github.io/). I am also pleased to have worked closely with [Prof. Yuanzhi Li](https://mbzuai.ac.ae/study/faculty/yuanzhi-li/) and [Prof. Ruoyu Sun](https://ruoyus.github.io/). Before joining CMLR, I received my Bachelor’s degree in Intelligence Science and Technology (Honor Track) from [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), Peking University. My research area is machine learning, with special interests in understanding deep learning and algorithms inspired by theoretical insights. 
+My name is Binghui Li. I am a third-year Ph.D. student in [The Center for Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/About/Introduction/index.htm), Peking University, where I am extremely fortunate to be advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/) and [Prof. Lei Wu](https://leiwu0.github.io/). I am also pleased to have worked closely with [Prof. Yuanzhi Li](https://mbzuai.ac.ae/study/faculty/yuanzhi-li/) and [Prof. Ruoyu Sun](https://ruoyus.github.io/). Before joining CMLR, I received my Bachelor’s degree in Intelligence Science and Technology (Honor Track) from [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), Peking University. My research area is machine learning, with special interests in understanding deep learning and algorithms inspired by theoretical insights. 
 If you are interested, please feel free to contact me (libinghui@pku.edu.cn or [WeChat](https://libinghui0000.github.io/WeChat.png))!
 
 Education
@@ -21,6 +21,10 @@ Education
 
 Publications & Preprints
 =====
+- **(NeurIPS 2025, Spotlight) [Unveiling the Role of Learning‑Rate Schedules via Functional Scaling Laws](https://libinghui0000.github.io/)**
+  <br/>
+  _Binghui Li\*, Fengling Chen\*, Zixun Huang\*, Lean Wang\*, Lei Wu_
+
 - **(Preprint) [M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation](https://arxiv.org/abs/2508.06328)**
   <br/>
   _Zhiyou Xiao\*, Qinhan Yu\*, **Binghui Li**\*, Geng Chen, Chong Chen, Wentao Zhang_
