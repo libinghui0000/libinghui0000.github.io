@@ -23,7 +23,7 @@ Publications & Preprints
 =====
 - **(NeurIPS 2025, Spotlight) [Unveiling the Role of Learning‑Rate Schedules via Functional Scaling Laws](https://libinghui0000.github.io/)**
   <br/>
-  _Binghui Li\*, Fengling Chen\*, Zixun Huang\*, Lean Wang\*, Lei Wu_
+  _**Binghui Li**\*, Fengling Chen\*, Zixun Huang\*, Lean Wang\*, Lei Wu_
 
 - **(Preprint) [M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation](https://arxiv.org/abs/2508.06328)**
   <br/>
