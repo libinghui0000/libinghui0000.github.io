@@ -82,6 +82,10 @@ Expressive Power and Training Dynamics [[Slides](Math_Slides.pdf)]**
 
 Teaching
 =====
+- 2025 Fall: CS 34100 Mathematical Foundations for the Information Age, PKU (TA, with [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/))
+
+- 2025 Fall: CS 33400 Discrete Mathematics and Structures, PKU (TA, with [Prof. Tianren Liu](https://liutianren.com/))
+
 - 2025 Spring: CS 34010 Randomness and Computation, PKU (TA, with [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/))
 
 - 2024 Fall: CS 33400 Discrete Mathematics and Structures, PKU (TA, with [Prof. Tianren Liu](https://liutianren.com/))
@@ -112,6 +116,7 @@ Selected Courses
 
 Selected Awards
 ======
+- National Scholarship, 2025 (top 1% in the nation)
 - [Peking University Elite Student Program for Applied Mathematics](https://cmlr.pku.edu.cn/Graduate/ElitePhDProgram/index.htm), 2024-2028 (Expected)
 - [President Scholarship of PKU](https://www.ds.pku.edu.cn/xwdt/935745.htm), 2023
 - Weiming Scholar of PKU, 2023 (top 1%, the highest honor for undergraduates in Peking University)
@@ -126,7 +131,7 @@ Selected Awards
 
 Professional Service
 ======
-- Conference reviewer of ICLR 2023/ NeurIPS 2024/ ICLR 2025/ AISTATS 2025/ ICML 2025/ NeurIPS 2025/ AAAI 2026
+- Conference reviewer of ICLR 2023/ NeurIPS 2024/ ICLR 2025/ AISTATS 2025/ ICML 2025/ NeurIPS 2025/ AAAI 2026/ AISTATS 2026
 - Committee member of Turing Class Research Committee since 2020
 
 
