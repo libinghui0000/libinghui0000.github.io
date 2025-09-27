@@ -116,7 +116,7 @@ Selected Courses
 
 Selected Awards
 ======
-- National Scholarship, 2025 (top 1% in the nation)
+- [National Scholarship](https://www.ds.pku.edu.cn/xwdt/939331.htm), 2025 (top 1% in the nation)
 - [Peking University Elite Student Program for Applied Mathematics](https://cmlr.pku.edu.cn/Graduate/ElitePhDProgram/index.htm), 2024-2028 (Expected)
 - [President Scholarship of PKU](https://www.ds.pku.edu.cn/xwdt/935745.htm), 2023
 - Weiming Scholar of PKU, 2023 (top 1%, the highest honor for undergraduates in Peking University)
