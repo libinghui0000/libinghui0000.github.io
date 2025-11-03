@@ -21,7 +21,7 @@ Education
 
 Publications & Preprints
 =====
-- **(NeurIPS 2025, Spotlight) [Unveiling the Role of Learning Rate Schedules via Functional Scaling Laws](https://arxiv.org/abs/2509.19189)**
+- **(NeurIPS 2025, Spotlight) [Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules](https://arxiv.org/abs/2509.19189)**
   <br/>
   _**Binghui Li**\*, Fengling Chen\*, Zixun Huang\*, Lean Wang\*, Lei Wu_
 
