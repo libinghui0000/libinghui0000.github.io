@@ -21,6 +21,10 @@ Education
 
 Publications & Preprints
 =====
+- **(NeurIPS 2025 OPT Workshop, Oral) [Larger Datasets Can Be Repeated More: A Theoretical Analysis of Multi-Epoch Scaling in Linear Regression](https://arxiv.org/abs/2511.13421)**
+  <br/>
+  _Tingkai Yan\*, Haodong Wen\*, **Binghui Li**\*, Kairong Luo, Wenguang Chen, Kaifeng Lyu_
+  
 - **(NeurIPS 2025, Spotlight) [Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules](https://arxiv.org/abs/2509.19189)**
   <br/>
   _**Binghui Li**\*, Fengling Chen\*, Zixun Huang\*, Lean Wang\*, Lei Wu_
