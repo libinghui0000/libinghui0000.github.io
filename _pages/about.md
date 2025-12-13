@@ -21,6 +21,10 @@ Education
 
 Publications & Preprints
 =====
+- **(Preprint) [Towards Revealing the Effect of Batch Size Scheduling on Pre-training](http://arxiv.org/abs/)**
+  <br/>
+  _Jinbo Wang\*, **Binghui Li**\*, Zhanpeng Zhou, Mingze Wang, Yuxuan Sun, Jiaqi Zhang, Xunliang Cai, Lei Wu_
+
 - **(NeurIPS 2025 OPT Workshop, Oral) [Larger Datasets Can Be Repeated More: A Theoretical Analysis of Multi-Epoch Scaling in Linear Regression](https://arxiv.org/abs/2511.13421)**
   <br/>
   _Tingkai Yan\*, Haodong Wen\*, **Binghui Li**\*, Kairong Luo, Wenguang Chen, Kaifeng Lyu_
