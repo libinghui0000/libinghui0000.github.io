@@ -71,6 +71,10 @@ Publications & Preprints
 
 Invited Talks
 =====
+- 2025.11, At the Eleventh Beijing Computational Mathematics Postgraduate Forum, Peking University, **Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules [[Slides](https://libinghui0000.github.io/)]**
+
+- 2025.11, At the Yao Class Seminar, Tsinghua University, **Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules [[Slides](https://libinghui0000.github.io/)]**
+
 - 2025.04, At the Applied Mathematics Youth Seminar, Peking University, **Theoretical Understanding of Adversarial Examples: 
 Expressive Power and Training Dynamics [[Slides](0402_Slides.pdf)]**
 
@@ -124,6 +128,7 @@ Selected Courses
 
 Selected Awards
 ======
+- [The CAST Youth Science and Technology Talent Cultivation Program for Doctoral Students](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc), 2025
 - [National Scholarship](https://www.ds.pku.edu.cn/xwdt/939331.htm), 2025 (top 1% in the nation)
 - [Peking University Elite Student Program for Applied Mathematics](https://cmlr.pku.edu.cn/Graduate/ElitePhDProgram/index.htm), 2024-2028 (Expected)
 - [President Scholarship of PKU](https://www.ds.pku.edu.cn/xwdt/935745.htm), 2023
