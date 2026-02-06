@@ -21,6 +21,10 @@ Education
 
 Publications & Preprints
 =====
+- **(Preprint) [Muon in Associative Memory Learning: Training Dynamics and Scaling Laws](https://arxiv.org/abs/2602.05725)**
+  <br/>
+  _**Binghui Li**\*, Kaifei Wang\*, Han Zhong, Pinyan Lu, Liwei Wang_
+
 - **(ICLR 2026) [Towards Revealing the Effect of Batch Size Scheduling on Pre-training](http://arxiv.org/abs/)**
   <br/>
   _Jinbo Wang\*, **Binghui Li**\*, Zhanpeng Zhou, Mingze Wang, Yuxuan Sun, Jiaqi Zhang, Xunliang Cai, Lei Wu_
