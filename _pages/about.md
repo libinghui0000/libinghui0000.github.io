@@ -21,6 +21,10 @@ Education
 
 Publications & Preprints
 =====
+- **(Preprint) [Optimal Learning-Rate Schedules under Functional Scaling Laws: Power Decay and Warmup-Stable-Decay](https://arxiv.org/abs/2602.06797)**
+  <br/>
+  _**Binghui Li**\*, Zilin Wang\*, Fengling Chen, Shiyang Zhao, Ruiheng Zheng, Lei Wu_
+
 - **(Preprint) [Muon in Associative Memory Learning: Training Dynamics and Scaling Laws](https://arxiv.org/abs/2602.05725)**
   <br/>
   _**Binghui Li**\*, Kaifei Wang\*, Han Zhong, Pinyan Lu, Liwei Wang_
