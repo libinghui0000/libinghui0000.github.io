@@ -29,7 +29,7 @@ Publications & Preprints
   <br/>
   _**Binghui Li**\*, Kaifei Wang\*, Han Zhong, Pinyan Lu, Liwei Wang_
 
-- **(ICLR 2026) [Towards Revealing the Effect of Batch Size Scheduling on Pre-training](http://arxiv.org/abs/)**
+- **(ICLR 2026) [Fast Catch-Up, Late Switching: Optimal Batch Size Scheduling via Functional Scaling Laws](https://openreview.net/forum?id=PXWgzUkVwo)**
   <br/>
   _Jinbo Wang\*, **Binghui Li**\*, Zhanpeng Zhou, Mingze Wang, Yuxuan Sun, Jiaqi Zhang, Xunliang Cai, Lei Wu_
 
