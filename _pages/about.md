@@ -49,7 +49,7 @@ Publications & Preprints
 
 - **(Preprint) [M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation](https://arxiv.org/abs/2508.06328)**
   <br/>
-  _Zhiyou Xiao\*, Qinhan Yu\*, **Binghui Li**\*&dagger; , Geng Chen, Chong Chen, Wentao Zhang_
+  _Zhiyou Xiao\*, Qinhan Yu\*, **Binghui Li**\* &dagger; , Geng Chen, Chong Chen, Wentao Zhang_
 
 - **(Preprint) [New Sphere Packings from the Antipode Construction](https://arxiv.org/abs/2505.02394)**
   <br/>
