@@ -21,13 +21,19 @@ Education
 
 Publications & Preprints
 =====
-- **(Preprint) [Optimal Learning-Rate Schedules under Functional Scaling Laws: Power Decay and Warmup-Stable-Decay](https://arxiv.org/abs/2602.06797)**
+\* indicates equal contribution, &dagger; means project lead.
+
+- **(ICLR 2026 Sci4DL Workshop) [Scaling-Law Analysis of SignSGD: From Feature-Space Linear Regression to LLM Pre-training](https://libinghui0000.github.io/)**
+  <br/>
+  _Zilin Wang\*, **Binghui Li**\*&dagger; , Lean Wang\*, Jianan Wang\*, Jinbo Wang\*, Lei Wu_
+
+- **(ICLR 2026 DeLTa Workshop) [Optimal Learning-Rate Schedules under Functional Scaling Laws: Power Decay and Warmup-Stable-Decay](https://arxiv.org/abs/2602.06797)**
   <br/>
   _**Binghui Li**\*, Zilin Wang\*, Fengling Chen, Shiyang Zhao, Ruiheng Zheng, Lei Wu_
 
 - **(Preprint) [Muon in Associative Memory Learning: Training Dynamics and Scaling Laws](https://arxiv.org/abs/2602.05725)**
   <br/>
-  _**Binghui Li**\*, Kaifei Wang\*, Han Zhong, Pinyan Lu, Liwei Wang_
+  _**Binghui Li**\*&dagger; , Kaifei Wang\*, Han Zhong, Pinyan Lu, Liwei Wang_
 
 - **(ICLR 2026) [Fast Catch-Up, Late Switching: Optimal Batch Size Scheduling via Functional Scaling Laws](https://arxiv.org/abs/2602.14208)**
   <br/>
@@ -39,11 +45,11 @@ Publications & Preprints
   
 - **(NeurIPS 2025, Spotlight) [Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules](https://arxiv.org/abs/2509.19189)**
   <br/>
-  _**Binghui Li**\*, Fengling Chen\*, Zixun Huang\*, Lean Wang\*, Lei Wu_
+  _**Binghui Li**\*&dagger; , Fengling Chen\*, Zixun Huang\*, Lean Wang\*, Lei Wu_
 
 - **(Preprint) [M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation](https://arxiv.org/abs/2508.06328)**
   <br/>
-  _Zhiyou Xiao\*, Qinhan Yu\*, **Binghui Li**\*, Geng Chen, Chong Chen, Wentao Zhang_
+  _Zhiyou Xiao\*, Qinhan Yu\*, **Binghui Li**\*&dagger; , Geng Chen, Chong Chen, Wentao Zhang_
 
 - **(Preprint) [New Sphere Packings from the Antipode Construction](https://arxiv.org/abs/2505.02394)**
   <br/>
