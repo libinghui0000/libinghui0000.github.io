@@ -23,7 +23,7 @@ Publications & Preprints
 =====
 \* indicates equal contribution, &dagger; means project lead.
 
-- **(ICLR 2026 Sci4DL Workshop) [Scaling-Law Analysis of SignSGD: From Feature-Space Linear Regression to LLM Pre-training](https://libinghui0000.github.io/)**
+- **(ICLR 2026 Sci4DL Workshop) [Scaling-Law Analysis of SignSGD: From Feature-Space Linear Regression to LLM Pre-training](https://openreview.net/forum?id=KQfV97S12I)**
   <br/>
   _Zilin Wang\*, **Binghui Li**\* &dagger; , Lean Wang\*, Jianan Wang\*, Jinbo Wang\*, Lei Wu_
 
