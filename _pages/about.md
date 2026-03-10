@@ -53,7 +53,7 @@ Publications & Preprints
 
 - **[8] (Preprint) [New Sphere Packings from the Antipode Construction](https://arxiv.org/abs/2505.02394)**
   <br/>
-  _(Alphabetical order) Ruitao Chen\*, Jiachen Hu\*, **Binghui Li**\*, Liwei Wang\*, Tianyi Wu\*_
+  _(&alpha;-&beta; order) Ruitao Chen, Jiachen Hu, **Binghui Li**, Liwei Wang, Tianyi Wu_
 
 - **[7] (ICML 2025) [On the Clean Generalization and Robust Overfitting in Adversarial Training from Two Theoretical Views: Representation Complexity and Training Dynamics](https://arxiv.org/abs/2306.01271)**
   <br/>
