@@ -23,63 +23,63 @@ Publications & Preprints
 =====
 \* indicates equal contribution, &dagger; means project lead.
 
-- **(ICLR 2026 Sci4DL Workshop) [Scaling-Law Analysis of SignSGD: From Feature-Space Linear Regression to LLM Pre-training](https://openreview.net/forum?id=KQfV97S12I)**
+- **[15] (ICLR 2026 Sci4DL Workshop) [Scaling-Law Analysis of SignSGD: From Feature-Space Linear Regression to LLM Pre-training](https://openreview.net/forum?id=KQfV97S12I)**
   <br/>
   _Zilin Wang\*, **Binghui Li**\* &dagger; , Lean Wang\*, Jianan Wang\*, Jinbo Wang\*, Lei Wu_
 
-- **(ICLR 2026 DeLTa Workshop) [Optimal Learning-Rate Schedules under Functional Scaling Laws: Power Decay and Warmup-Stable-Decay](https://arxiv.org/abs/2602.06797)**
+- **[14] (ICLR 2026 DeLTa Workshop) [Optimal Learning-Rate Schedules under Functional Scaling Laws: Power Decay and Warmup-Stable-Decay](https://arxiv.org/abs/2602.06797)**
   <br/>
   _**Binghui Li**\*, Zilin Wang\*, Fengling Chen, Shiyang Zhao, Ruiheng Zheng, Lei Wu_
 
-- **(Preprint) [Muon in Associative Memory Learning: Training Dynamics and Scaling Laws](https://arxiv.org/abs/2602.05725)**
+- **[13] (Preprint) [Muon in Associative Memory Learning: Training Dynamics and Scaling Laws](https://arxiv.org/abs/2602.05725)**
   <br/>
   _**Binghui Li**\* &dagger; , Kaifei Wang\*, Han Zhong, Pinyan Lu, Liwei Wang_
 
-- **(ICLR 2026) [Fast Catch-Up, Late Switching: Optimal Batch Size Scheduling via Functional Scaling Laws](https://arxiv.org/abs/2602.14208)**
+- **[12] (ICLR 2026) [Fast Catch-Up, Late Switching: Optimal Batch Size Scheduling via Functional Scaling Laws](https://arxiv.org/abs/2602.14208)**
   <br/>
   _Jinbo Wang\*, **Binghui Li**\*, Zhanpeng Zhou, Mingze Wang, Yuxuan Sun, Jiaqi Zhang, Xunliang Cai, Lei Wu_
 
-- **(ICLR 2026) [Larger Datasets Can Be Repeated More: A Theoretical Analysis of Multi-Epoch Scaling in Linear Regression](https://openreview.net/forum?id=0CXjpAxHUE)**
+- **[11] (ICLR 2026) [Larger Datasets Can Be Repeated More: A Theoretical Analysis of Multi-Epoch Scaling in Linear Regression](https://openreview.net/forum?id=0CXjpAxHUE)**
   <br/>
   _Tingkai Yan\*, Haodong Wen\*, **Binghui Li**\*, Kairong Luo, Wenguang Chen, Kaifeng Lyu_
   
-- **(NeurIPS 2025, Spotlight) [Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules](https://arxiv.org/abs/2509.19189)**
+- **[10] (NeurIPS 2025, Spotlight) [Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules](https://arxiv.org/abs/2509.19189)**
   <br/>
   _**Binghui Li**\* &dagger; , Fengling Chen\*, Zixun Huang\*, Lean Wang\*, Lei Wu_
 
-- **(Preprint) [M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation](https://arxiv.org/abs/2508.06328)**
+- **[9] (Preprint) [M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation](https://arxiv.org/abs/2508.06328)**
   <br/>
   _Zhiyou Xiao\*, Qinhan Yu\*, **Binghui Li**\* &dagger; , Geng Chen, Chong Chen, Wentao Zhang_
 
-- **(Preprint) [New Sphere Packings from the Antipode Construction](https://arxiv.org/abs/2505.02394)**
+- **[8] (Preprint) [New Sphere Packings from the Antipode Construction](https://arxiv.org/abs/2505.02394)**
   <br/>
   _(Alphabetical order) Ruitao Chen\*, Jiachen Hu\*, **Binghui Li**\*, Liwei Wang\*, Tianyi Wu\*_
 
-- **(ICML 2025) [On the Clean Generalization and Robust Overfitting in Adversarial Training from Two Theoretical Views: Representation Complexity and Training Dynamics](https://arxiv.org/abs/2306.01271)**
+- **[7] (ICML 2025) [On the Clean Generalization and Robust Overfitting in Adversarial Training from Two Theoretical Views: Representation Complexity and Training Dynamics](https://arxiv.org/abs/2306.01271)**
   <br/>
   _**Binghui Li**, Yuanzhi Li_
   
-- **(SIGIR 2025) [MRAMG-Bench: A Comprehensive Benchmark for Advancing Multimodal Retrieval-Augmented Multimodal Generation](https://arxiv.org/abs/2502.04176)**
+- **[6] (SIGIR 2025) [MRAMG-Bench: A Comprehensive Benchmark for Advancing Multimodal Retrieval-Augmented Multimodal Generation](https://arxiv.org/abs/2502.04176)**
   <br/>
   _Qinhan Yu\*, Zhiyou Xiao\*, **Binghui Li**\*, Zhengren Wang, Chong Chen, Wentao Zhang_
 
-- **(ICLR 2025) [Feature Averaging: An Implicit Bias of Gradient Descent Leading to Non-Robustness in Neural Networks](https://arxiv.org/abs/2410.10322)**
+- **[5] (ICLR 2025) [Feature Averaging: An Implicit Bias of Gradient Descent Leading to Non-Robustness in Neural Networks](https://arxiv.org/abs/2410.10322)**
   <br/>
   _**Binghui Li**\*, Zhixuan Pan\*, Kaifeng Lyu, Jian Li_
 
-- **(ICLR 2025) [Adversarial Training Can Provably Improve Robustness: Theoretical Analysis of Feature Learning Process Under Structured Data](https://arxiv.org/abs/2410.08503)**
+- **[4] (ICLR 2025) [Adversarial Training Can Provably Improve Robustness: Theoretical Analysis of Feature Learning Process Under Structured Data](https://arxiv.org/abs/2410.08503)**
   <br/>
   _**Binghui Li**, Yuanzhi Li_
 
-- **(NeurIPS 2022) [Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power](https://arxiv.org/abs/2205.13863)**
+- **[3] (NeurIPS 2022) [Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power](https://arxiv.org/abs/2205.13863)**
   <br/>
   _**Binghui Li**\*, Jikai Jin\*, Han Zhong, John E. Hopcroft, Liwei Wang_
   
-- **(Preprint) [Reconstruction Task Finds Universal Winning Tickets](https://arxiv.org/abs/2202.11484)**
+- **[2] (Preprint) [Reconstruction Task Finds Universal Winning Tickets](https://arxiv.org/abs/2202.11484)**
   <br/>
   _Ruichen Li, **Binghui Li**, Qi Qian, Liwei Wang_
 
-- **(Preprint) [Boosting Certified ℓ<sub>∞</sub> Robustness with EMA Method and Ensemble Model](https://arxiv.org/abs/2107.00230)**
+- **[1] (Preprint) [Boosting Certified ℓ<sub>∞</sub> Robustness with EMA Method and Ensemble Model](https://arxiv.org/abs/2107.00230)**
   <br/>
   _**Binghui Li**\*, Shiji Xin\*, Qizhe Zhang\*_
 
