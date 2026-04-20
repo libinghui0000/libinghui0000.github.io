@@ -25,7 +25,7 @@ Publications & Preprints
 
 - **[15] (ICLR 2026 Sci4DL Workshop) [Scaling-Law Analysis of SignSGD: From Feature-Space Linear Regression to LLM Pre-training](https://openreview.net/forum?id=KQfV97S12I)**
   <br/>
-  _(&alpha;-&beta; order) **Binghui Li**, Jianan Wang, Jinbo Wang, Lean Wang, Zilin Wang, Lei Wu_
+  _(&alpha;-&beta; order) **Binghui Li** &dagger;, Jianan Wang, Jinbo Wang, Lean Wang, Zilin Wang, Lei Wu_
 
 - **[14] (ICLR 2026 DeLTa Workshop) [Optimal Learning-Rate Schedules under Functional Scaling Laws: Power Decay and Warmup-Stable-Decay](https://arxiv.org/abs/2602.06797)**
   <br/>
