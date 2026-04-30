@@ -23,17 +23,17 @@ Publications & Preprints
 =====
 \* indicates equal contribution, &dagger; means project lead.
 
-- **[15] (ICLR 2026 Sci4DL Workshop) [Scaling-Law Analysis of SignSGD: From Feature-Space Linear Regression to LLM Pre-training](https://openreview.net/forum?id=KQfV97S12I)**
+- **[15] (ICML 2026) [Muon in Associative Memory Learning: Training Dynamics and Scaling Laws](https://arxiv.org/abs/2602.05725)**
+  <br/>
+  _**Binghui Li**\* &dagger; , Kaifei Wang\*, Han Zhong, Pinyan Lu, Liwei Wang_
+
+- **[14] (ICLR 2026 Sci4DL Workshop) [Scaling-Law Analysis of SignSGD: From Feature-Space Linear Regression to LLM Pre-training](https://openreview.net/forum?id=KQfV97S12I)**
   <br/>
   _(&alpha;-&beta; order) **Binghui Li** &dagger;, Jianan Wang, Jinbo Wang, Lean Wang, Zilin Wang, Lei Wu_
 
-- **[14] (ICLR 2026 DeLTa Workshop) [Optimal Learning-Rate Schedules under Functional Scaling Laws: Power Decay and Warmup-Stable-Decay](https://arxiv.org/abs/2602.06797)**
+- **[13] (ICLR 2026 DeLTa Workshop) [Optimal Learning-Rate Schedules under Functional Scaling Laws: Power Decay and Warmup-Stable-Decay](https://arxiv.org/abs/2602.06797)**
   <br/>
   _**Binghui Li**\*, Zilin Wang\*, Fengling Chen, Shiyang Zhao, Ruiheng Zheng, Lei Wu_
-
-- **[13] (Preprint) [Muon in Associative Memory Learning: Training Dynamics and Scaling Laws](https://arxiv.org/abs/2602.05725)**
-  <br/>
-  _**Binghui Li**\* &dagger; , Kaifei Wang\*, Han Zhong, Pinyan Lu, Liwei Wang_
 
 - **[12] (ICLR 2026) [Fast Catch-Up, Late Switching: Optimal Batch Size Scheduling via Functional Scaling Laws](https://arxiv.org/abs/2602.14208)**
   <br/>
