@@ -23,6 +23,10 @@ Publications & Preprints
 =====
 \* indicates equal contribution, &dagger; means project lead.
 
+- **[16] (Preprint) [Negligible in Size, Significant in Effect: On Scale Vectors in Large Language Models](https://arxiv.org/abs/2605.26895)**
+  <br/>
+  _Mingze Wang, Shuchen Zhu, Yuxin Fang, **Binghui Li**, Kai Shen, Shu Zhong_
+
 - **[15] (COLT 2026) [Optimal Learning-Rate Schedules under Functional Scaling Laws: Power Decay and Warmup-Stable-Decay](https://arxiv.org/abs/2602.06797)**
   <br/>
   _**Binghui Li**\*, Zilin Wang\*, Fengling Chen, Shiyang Zhao, Ruiheng Zheng, Lei Wu_
