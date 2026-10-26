@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Binghui Li. I am a third-year Ph.D. student in [The Center for Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/About/Introduction/index.htm), Peking University, where I am extremely fortunate to be advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/) and [Prof. Lei Wu](https://leiwu0.github.io/). I am also pleased to have worked closely with [Prof. Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en) and [Prof. Ruoyu Sun](https://ruoyus.github.io/). Before joining CMLR, I received my Bachelor’s degree in Intelligence Science and Technology (Honor Track) from [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), Peking University. My research area is machine learning, with special interests in understanding deep learning and algorithms inspired by theoretical insights. 
+My name is Binghui Li. I am a fourth-year Ph.D. student in [The Center for Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/About/Introduction/index.htm), Peking University, where I am extremely fortunate to be advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/) and [Prof. Lei Wu](https://leiwu0.github.io/). I am also pleased to have worked closely with [Prof. Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en), [Prof. Ruoyu Sun](https://ruoyus.github.io/), [Prof. Jian Li](https://people.iiis.tsinghua.edu.cn/~jianli/) and [Prof. Kaifeng Lyu](https://kaifeng.ac/). Before joining CMLR, I received my Bachelor’s degree in Intelligence Science and Technology (Honor Track) from [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), Peking University. My research area is machine learning, with special interests in understanding deep learning and algorithms inspired by theoretical insights. 
 If you are interested, please feel free to contact me (libinghui@pku.edu.cn or [WeChat](https://libinghui0000.github.io/WeChat.png))!
 
 Education
@@ -22,6 +22,14 @@ Education
 Publications & Preprints
 =====
 \* indicates equal contribution, &dagger; means project lead.
+
+- **[18] (Preprint) [When and How Does Muon Precondition? The Role of Structured Gradient Noise](https://arxiv.org/abs/2610.31728)**
+  <br/>
+  _Xiaoran Chen\*, **Binghui Li**\* &dagger; , Liwei Wang, Pinyan Lu_
+
+- **[17] (NeurIPS 2026, Spotlight) [How Can SignSGD Outperform SGD? A Functional Scaling Law Perspective](https://openreview.net/forum?id=g7xKEe1njs)**
+  <br/>
+  _Zilin Wang\*, **Binghui Li**\*, Jia-Nan Wang\*, Lean Wang\*, Jinbo Wang\*, Lei Wu_
 
 - **[16] (Preprint) [Negligible in Size, Significant in Effect: On Scale Vectors in Large Language Models](https://arxiv.org/abs/2605.26895)**
   <br/>
@@ -147,7 +155,7 @@ Selected Courses
 Selected Awards
 ======
 - [The CAST Youth Science and Technology Talent Cultivation Program for Doctoral Students](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc), 2025
-- [National Scholarship](https://www.ds.pku.edu.cn/xwdt/939331.htm), 2025 (top 1% in the nation)
+- [National Scholarship](https://www.ds.pku.edu.cn/xwdt/939331.htm), 2025, 2026 (top 1% in the nation)
 - [Peking University Elite Student Program for Applied Mathematics](https://cmlr.pku.edu.cn/Graduate/ElitePhDProgram/index.htm), 2024-2028 (Expected)
 - [President Scholarship of PKU](https://www.ds.pku.edu.cn/xwdt/935745.htm), 2023
 - Weiming Scholar of PKU, 2023 (top 1%, the highest honor for undergraduates in Peking University)
