@@ -25,7 +25,7 @@ Education
 Research Experience
 =====
 
-- **Research Intern, Seed Model Edge**
+- **(Research Intern) ByteDance Seed, Edge Group, 2026.2-now**
   <br/>
   Research on scaling laws and optimization dynamics for large language model pre-training.
 
