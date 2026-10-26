@@ -1,2 +1,16 @@
 # main links links
 main:
+  - title: "Research"
+    url: /#research-highlights
+
+  - title: "Publications"
+    url: /#publications--preprints
+
+  - title: "Experience"
+    url: /#education
+
+  - title: "Talks"
+    url: /#invited-talks
+
+  - title: "Awards"
+    url: /#selected-awards
