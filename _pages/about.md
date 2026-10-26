@@ -25,9 +25,30 @@ Education
 Research Experience
 =====
 
-- **(Research Intern) ByteDance Seed, Edge Group, 2026.2-now**
+- **Research Intern, Seed Model Edge**
   <br/>
   Research on scaling laws and optimization dynamics for large language model pre-training.
+
+Research Highlights
+=====
+
+## LLM Pre-training: Scaling Laws & Optimization
+
+I study the theoretical foundations of efficient LLM pre-training, connecting learning dynamics with practical training decisions.
+
+- **Functional scaling laws and training schedules.** I lead a line of research on functional scaling laws (FSL), developing a framework to characterize learning dynamics and the effects of learning-rate schedules [[10](#paper-10)]. Building on this framework, we study optimal learning-rate schedules [[15](#paper-15)], batch-size scheduling [[12](#paper-12)], and the differences in scaling behavior between SignSGD and SGD [[17](#paper-17)].
+- **Optimization dynamics and parameterization.** My work investigates Muon's training dynamics and scaling laws in associative memory learning [[14](#paper-14)], as well as when and how it acts as a preconditioner in the presence of structured gradient noise [[18](#paper-18)]. I also explore the role of scale vectors in LLMs—parameters that are small in number but significant in their effects [[16](#paper-16)].
+- **Data reuse and multi-epoch scaling.** We study how repeated training on finite datasets affects scaling behavior, showing how the benefits of data reuse depend on dataset size and distribution [[11](#paper-11)].
+
+## AI Safety: Foundations of Adversarial Robustness
+
+My work on AI safety focuses on adversarial robustness: understanding why neural networks are vulnerable to small input perturbations and when robust learning is possible.
+
+- **Limits of robust generalization.** We investigate the expressive power required for robust learning, identifying fundamental barriers that help explain why robust generalization can be substantially harder than standard generalization [[3](#paper-3)].
+- **Feature learning and adversarial training.** We study how adversarial training can improve robustness through feature learning [[4](#paper-4)], and how the implicit bias of gradient descent can lead to non-robust representations [[5](#paper-5)].
+- **Robust overfitting and training dynamics.** We examine generalization and robust overfitting in adversarial training through the complementary perspectives of representation complexity and training dynamics [[7](#paper-7)].
+
+My other research interests include **multimodal retrieval-augmented generation** [[6](#paper-6), [9](#paper-9)] and **mathematical discovery**, including sphere-packing constructions [[8](#paper-8)].
 
 Publications & Preprints
 =====
@@ -107,9 +128,15 @@ Publications & Preprints
 
 Invited Talks
 =====
+- 2026.05, At the Fifth Turing Student Research Forum, Peking University, **A Functional Perspective on Scaling Laws in LLM Pre-Training [[Event](https://eecs.pku.edu.cn/info/1040/11563.htm)]**
+
+- 2026.05, At the [FAI Seminar](https://www.fai-seminar.ac.cn/) (International Seminar on Foundational Artificial Intelligence), **Understanding LLM Pre-Training Dynamics via Functional Scaling Laws [[Video](https://www.bilibili.com/video/BV1hM5v6REvJ/)]**
+
 - 2025.11, At the Eleventh Beijing Computational Mathematics Postgraduate Forum, Peking University, **Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules [[Slides](https://libinghui0000.github.io/)]**
 
 - 2025.11, At the Yao Class Seminar, Tsinghua University, **Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules [[Slides](https://libinghui0000.github.io/)]**
+
+- 2025.06, At the [FAI Seminar](https://www.fai-seminar.ac.cn/) (International Seminar on Foundational Artificial Intelligence), **Theoretical Understanding of Adversarial Examples in Deep Learning: Expressive Power and Training Dynamics [[Video](https://www.bilibili.com/video/BV1tmMtzYEiv/)]**
 
 - 2025.04, At the Applied Mathematics Youth Seminar, Peking University, **Theoretical Understanding of Adversarial Examples: 
 Expressive Power and Training Dynamics [[Slides](0402_Slides.pdf)]**
