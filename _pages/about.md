@@ -58,7 +58,7 @@ Publications & Preprints
   <br/>
   _Xiaoran Chen\*, **Binghui Li**\* &dagger; , Liwei Wang, Pinyan Lu_
 
-- <span id="paper-17"></span>**[17] (NeurIPS 2026, Spotlight) [When and How SignSGD Outperform SGD: A Functional Scaling Law Perspective](https://openreview.net/forum?id=g7xKEe1njs)**
+- <span id="paper-17"></span>**[17] (NeurIPS 2026, Spotlight) [When and How SignSGD Outperforms SGD: A Functional Scaling Law Perspective](https://openreview.net/forum?id=g7xKEe1njs)**
   <br/>
   _Zilin Wang\*, **Binghui Li**\*, Jia-Nan Wang\*, Lean Wang\*, Jinbo Wang\*, Lei Wu_
 
