@@ -192,8 +192,9 @@ Teaching
 
 Professional Service
 =====
-- Conference reviewer of ICLR 2023/ NeurIPS 2024/ ICLR 2025/ AISTATS 2025/ ICML 2025/ NeurIPS 2025/ AAAI 2026/ AISTATS 2026/ ICLR 2026/ CVPR 2026/ ICML 2026/ ECCV 2026/ NeurIPS 2026/ AAAI 2027/ ICLR 2027/ AISTATS 2027/ TPAMI
-- Committee member of Turing Class Research Committee since 2020
+- **Conference reviewer:** ICLR (2023, 2025–2027), NeurIPS (2024–2026), AISTATS (2025–2027), ICML (2025–2026), AAAI (2026–2027), CVPR (2026), ECCV (2026).
+- **Journal reviewer:** IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- **Committee service:** Member of the Turing Class Research Committee (2020–present).
 
 Selected Courses
 =====
