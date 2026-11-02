@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My name is Binghui Li. I am a fourth-year Ph.D. student in [The Center for Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/About/Introduction/index.htm), Peking University, where I am extremely fortunate to be advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/) and [Prof. Lei Wu](https://leiwu0.github.io/). I am also pleased to have worked closely with [Prof. Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en), [Prof. Ruoyu Sun](https://ruoyus.github.io/), [Prof. Jian Li](https://people.iiis.tsinghua.edu.cn/~jianli/), [Prof. Kaifeng Lyu](https://kaifeng.ac/) and [Prof. Pinyan Lu](http://pinyanlu.com/). Before joining CMLR, I received my Bachelor’s degree in Intelligence Science and Technology (Honor Track) from [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), Peking University. My research area is machine learning, with special interests in understanding deep learning and algorithms inspired by theoretical insights.
+My name is Binghui Li. I am a fourth-year Ph.D. student in [The Center for Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/About/Introduction/index.htm), Peking University, where I am extremely fortunate to be advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/) and [Prof. Lei Wu](https://leiwu0.github.io/). I am also pleased to have worked closely with [Prof. Yuanzhi Li](https://scholar.google.com/citations?user=aHtfItQAAAAJ&hl=en), [Prof. Ruoyu Sun](https://ruoyus.github.io/), [Prof. Jian Li](https://people.iiis.tsinghua.edu.cn/~jianli/), [Prof. Kaifeng Lyu](https://kaifeng.ac/), and [Prof. Pinyan Lu](http://pinyanlu.com/). Before joining CMLR, I received my Bachelor’s degree in Intelligence Science and Technology (Honor Track) from [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), Peking University. 
 
-I currently focus on the theoretical foundations of large language model (LLM) pre-training, particularly scaling laws and optimization dynamics. My recent work explores optimizers [[14](#paper-14), [17](#paper-17), [18](#paper-18)], learning-rate schedules [[10](#paper-10), [15](#paper-15)], batch-size schedules [[12](#paper-12)], and data reuse [[11](#paper-11)]. In particular, I lead a line of research on **functional scaling laws (FSL)** [[10](#paper-10), [12](#paper-12), [15](#paper-15), [17](#paper-17)], developing a framework to characterize learning dynamics and understand how optimization choices shape scaling behavior. Through these efforts, I aim to provide principled guidance for efficient LLM pre-training.
- 
+I currently focus on the theoretical foundations of large language model (LLM) pre-training, particularly scaling laws and optimization dynamics. Our recent work explores optimizers [[14](#paper-14), [17](#paper-17), [18](#paper-18)], learning-rate schedules [[10](#paper-10), [15](#paper-15)], batch-size schedules [[12](#paper-12)], and data reuse [[11](#paper-11)]. A major thread of my research is the development of **functional scaling laws (FSL)** [[10](#paper-10), [12](#paper-12), [15](#paper-15), [17](#paper-17)]. In this line of work, we develop a framework to characterize learning dynamics and understand how optimization choices shape scaling behavior. Through these efforts, we aim to provide principled guidance for efficient LLM pre-training.
+
 If you are interested, please feel free to contact me (libinghui@pku.edu.cn or [WeChat](https://libinghui0000.github.io/WeChat.png))!
 
 Education
@@ -34,11 +34,11 @@ Research Highlights
 
 ## LLM Pre-training: Scaling Laws & Optimization
 
-I study the theoretical foundations of efficient LLM pre-training, connecting learning dynamics with practical training decisions.
+I study scaling laws and optimization dynamics to understand LLM pre-training and improve its efficiency.
 
-- **Functional scaling laws and training schedules.** I lead a line of research on functional scaling laws (FSL), developing a framework to characterize learning dynamics and the effects of learning-rate schedules [[10](#paper-10)]. Building on this framework, we study optimal learning-rate schedules [[15](#paper-15)], batch-size scheduling [[12](#paper-12)], and the differences in scaling behavior between SignSGD and SGD [[17](#paper-17)].
-- **Optimization dynamics and parameterization.** My work investigates Muon's training dynamics and scaling laws in associative memory learning [[14](#paper-14)], as well as when and how it acts as a preconditioner in the presence of structured gradient noise [[18](#paper-18)]. I also explore the role of scale vectors in LLMs—parameters that are small in number but significant in their effects [[16](#paper-16)].
-- **Data reuse and multi-epoch scaling.** We study how repeated training on finite datasets affects scaling behavior, showing how the benefits of data reuse depend on dataset size and distribution [[11](#paper-11)].
+- **Functional scaling laws and training schedules.** We develop a framework of functional scaling laws (FSL) to characterize learning dynamics and the effects of learning-rate schedules [[10](#paper-10)]. Building on this framework, we study optimal learning-rate schedules [[15](#paper-15)], batch-size scheduling [[12](#paper-12)], and differences in scaling behavior between SignSGD and SGD [[17](#paper-17)].
+- **Optimization dynamics and parameterization.** We investigate Muon's training dynamics and scaling laws in associative memory learning [[14](#paper-14)], as well as when and how it acts as a preconditioner in the presence of structured gradient noise [[18](#paper-18)]. We also study the role of scale vectors in LLMs—parameters that are small in number but significant in their effects [[16](#paper-16)].
+- **Data reuse and multi-epoch scaling.** We study how repeated training on finite datasets affects scaling behavior, characterizing how the benefits of data reuse depend on dataset size and distribution [[11](#paper-11)].
 
 ## AI Safety: Foundations of Adversarial Robustness
 
@@ -128,13 +128,15 @@ Publications & Preprints
 
 Invited Talks
 =====
+- 2026.10, At the Twelfth Beijing Computational Mathematics Postgraduate Forum, Peking University, **Understanding LLM Pre-Training Dynamics via Functional Scaling Laws**
+
 - 2026.05, At the Fifth Turing Student Research Forum, Peking University, **A Functional Perspective on Scaling Laws in LLM Pre-Training [[Event](https://eecs.pku.edu.cn/info/1040/11563.htm)]**
 
 - 2026.05, At the [FAI Seminar](https://www.fai-seminar.ac.cn/) (International Seminar on Foundational Artificial Intelligence), **Understanding LLM Pre-Training Dynamics via Functional Scaling Laws [[Video](https://www.bilibili.com/video/BV1hM5v6REvJ/)]**
 
-- 2025.11, At the Eleventh Beijing Computational Mathematics Postgraduate Forum, Peking University, **Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules [[Slides](https://libinghui0000.github.io/)]**
+- 2025.11, At the Eleventh Beijing Computational Mathematics Postgraduate Forum, Peking University, **Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules**
 
-- 2025.11, At the Yao Class Seminar, Tsinghua University, **Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules [[Slides](https://libinghui0000.github.io/)]**
+- 2025.11, At the Yao Class Seminar, Tsinghua University, **Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules**
 
 - 2025.06, At the [FAI Seminar](https://www.fai-seminar.ac.cn/) (International Seminar on Foundational Artificial Intelligence), **Theoretical Understanding of Adversarial Examples in Deep Learning: Expressive Power and Training Dynamics [[Video](https://www.bilibili.com/video/BV1tmMtzYEiv/)]**
 
@@ -157,7 +159,8 @@ Expressive Power and Training Dynamics [[Slides](Math_Slides.pdf)]**
 
 Selected Awards
 =====
-- [The CAST Youth Science and Technology Talent Cultivation Program for Doctoral Students](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc), 2025
+- [The CAST Youth Science and Technology Talent Cultivation Program for Doctoral Students (中国科协青年科技人才培育工程博士生专项计划
+）](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc), 2025
 - [National Scholarship](https://www.ds.pku.edu.cn/xwdt/939331.htm), 2025, 2026 (top 1% in the nation)
 - [Peking University Elite Student Program for Applied Mathematics](https://cmlr.pku.edu.cn/Graduate/ElitePhDProgram/index.htm), 2024-2028 (Expected)
 - [President Scholarship of PKU](https://www.ds.pku.edu.cn/xwdt/935745.htm), 2023
