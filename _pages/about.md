@@ -80,7 +80,7 @@ Publications & Preprints
 
 - <span id="paper-12"></span>**[12] (ICLR 2026) [Fast Catch-Up, Late Switching: Optimal Batch Size Scheduling via Functional Scaling Laws](https://arxiv.org/abs/2602.14208)**
   <br/>
-  _Jinbo Wang\*, **Binghui Li**\*, Zhanpeng Zhou, Mingze Wang, Yuxuan Sun, Jiaqi Zhang, Xunliang Cai, Lei Wu_
+  _Jinbo Wang\*, **Binghui Li**\* &dagger; , Zhanpeng Zhou, Mingze Wang, Yuxuan Sun, Jiaqi Zhang, Xunliang Cai, Lei Wu_
 
 - <span id="paper-11"></span>**[11] (ICLR 2026) [Larger Datasets Can Be Repeated More: A Theoretical Analysis of Multi-Epoch Scaling in Linear Regression](https://arxiv.org/abs/2511.13421)**
   <br/>
