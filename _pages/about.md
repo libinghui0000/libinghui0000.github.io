@@ -60,7 +60,7 @@ Publications & Preprints
 
 - <span id="paper-17"></span>**[17] (NeurIPS 2026, Spotlight) [When and How SignSGD Outperforms SGD: A Functional Scaling Law Perspective](https://openreview.net/forum?id=g7xKEe1njs)**
   <br/>
-  _Zilin Wang\*, **Binghui Li**\*, Jia-Nan Wang\*, Lean Wang\*, Jinbo Wang\*, Lei Wu_
+  _Zilin Wang\*, **Binghui Li**\* &dagger; , Jia-Nan Wang\*, Lean Wang\*, Jinbo Wang\*, Lei Wu_
 
 - <span id="paper-16"></span>**[16] (Preprint) [Negligible in Size, Significant in Effect: On Scale Vectors in Large Language Models](https://arxiv.org/abs/2605.26895)**
   <br/>
