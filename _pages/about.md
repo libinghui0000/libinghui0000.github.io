@@ -58,7 +58,7 @@ Publications & Preprints
   <br/>
   _Xiaoran Chen\*, **Binghui Li**\* &dagger; , Liwei Wang, Pinyan Lu_
 
-- <span id="paper-17"></span>**[17] (NeurIPS 2026, Spotlight) [When and How SignSGD Outperforms SGD: A Functional Scaling Law Perspective](https://openreview.net/forum?id=g7xKEe1njs)**
+- <span id="paper-17"></span>**[17] (NeurIPS 2026, Spotlight) [When and How SignSGD Outperforms SGD: A Functional Scaling Law Perspective](https://arxiv.org/abs/2611.16560)**
   <br/>
   _Zilin Wang\*, **Binghui Li**\* &dagger; , Jia-Nan Wang\*, Lean Wang\*, Jinbo Wang\*, Lei Wu_
 
@@ -128,6 +128,8 @@ Publications & Preprints
 
 Invited Talks
 =====
+- 2026.11, At the First PhD Forum on Understanding the Mechanisms of Large AI Models, Shanghai University of Finance and Economics, **Understanding LLM Pre-Training Dynamics via Functional Scaling Laws**
+
 - 2026.10, At the Twelfth Beijing Computational Mathematics Postgraduate Forum, Peking University, **Understanding LLM Pre-Training Dynamics via Functional Scaling Laws**
 
 - 2026.05, At the Fifth Turing Student Research Forum, Peking University, **A Functional Perspective on Scaling Laws in LLM Pre-Training [[Event](https://eecs.pku.edu.cn/info/1040/11563.htm)]**
