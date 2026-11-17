@@ -114,7 +114,7 @@ Publications & Preprints
   <br/>
   _**Binghui Li**, Yuanzhi Li_
 
-- <span id="paper-3"></span>**[3] (NeurIPS 2022) [Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power](https://arxiv.org/abs/2205.13863)**
+- <span id="paper-3"></span>**[3] (NeurIPS 2022, Spotlight) [Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power](https://arxiv.org/abs/2205.13863)**
   <br/>
   _**Binghui Li**\*, Jikai Jin\*, Han Zhong, John E. Hopcroft, Liwei Wang_
   
