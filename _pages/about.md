@@ -58,7 +58,7 @@ Publications & Preprints
   <br/>
   _Xiaoran Chen\*, **Binghui Li**\* &dagger; , Liwei Wang, Pinyan Lu_
 
-- <span id="paper-17"></span>**[17] (NeurIPS 2026, Spotlight) [When and How SignSGD Outperforms SGD: A Functional Scaling Law Perspective](https://arxiv.org/abs/2611.16560)**
+- <span id="paper-17"></span>**[17] (NeurIPS 2026, Spotlight (top 0.95%)) [When and How SignSGD Outperforms SGD: A Functional Scaling Law Perspective](https://arxiv.org/abs/2611.16560)**
   <br/>
   _Zilin Wang\*, **Binghui Li**\*, Jia-Nan Wang\*, Lean Wang\*, Jinbo Wang\*, Lei Wu_
 
@@ -86,7 +86,7 @@ Publications & Preprints
   <br/>
   _Tingkai Yan\*, Haodong Wen\*, **Binghui Li**\*, Kairong Luo, Wenguang Chen, Kaifeng Lyu_
   
-- <span id="paper-10"></span>**[10] (NeurIPS 2025, Spotlight) [Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules](https://arxiv.org/abs/2509.19189)**
+- <span id="paper-10"></span>**[10] (NeurIPS 2025, Spotlight (top 3.1%)) [Functional Scaling Laws in Kernel Regression: Loss Dynamics and Learning Rate Schedules](https://arxiv.org/abs/2509.19189)**
   <br/>
   _**Binghui Li**\* &dagger; , Fengling Chen\*, Zixun Huang\*, Lean Wang\*, Lei Wu_
 
@@ -114,7 +114,7 @@ Publications & Preprints
   <br/>
   _**Binghui Li**, Yuanzhi Li_
 
-- <span id="paper-3"></span>**[3] (NeurIPS 2022, Spotlight) [Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power](https://arxiv.org/abs/2205.13863)**
+- <span id="paper-3"></span>**[3] (NeurIPS 2022, Spotlight (top 5%)) [Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power](https://arxiv.org/abs/2205.13863)**
   <br/>
   _**Binghui Li**\*, Jikai Jin\*, Han Zhong, John E. Hopcroft, Liwei Wang_
   
